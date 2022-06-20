@@ -1,7 +1,5 @@
-# javascript_mariogame
-clone coding with vanilla javascript using Kaboom api
-# Mario
-A game of Mario using JavaScript and Kaboom.js
+# Mario game
+clone coding with vanilla Javascript using Kaboom api
 
 ## References
 https://github.com/kubowania/mario
