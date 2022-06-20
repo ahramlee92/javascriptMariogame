@@ -1,5 +1,5 @@
 # Mario game
-clone coding with vanilla Javascript using Kaboom api
+Clone coding with vanilla Javascript using Kaboom api
 
 ## References
 https://github.com/kubowania/mario
